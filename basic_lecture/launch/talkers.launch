@@ -1,0 +1,5 @@
+<launch>
+  <node name="talker"   pkg="basic_lecture" type="talker.py" />
+  <node name="talker1" pkg="basic_lecture" type="talker1.py" />
+  <node name="talker_num" pkg="basic_lecture" type="talker_num.py" />
+</launch>
